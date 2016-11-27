@@ -1,0 +1,34 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    The two versions allowed me to pull just the differences in the command line, and only note the differences spotted in the code
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Having access to an entire file history would allow me to see previous mistakes or corrections that may be useful later or to point out some change I would need to make for myself. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros: You’re most up to date project/file is saved and rendered in the most logical fashion. Being able to view each checkpoint in a meaningful manner.
+    Cons: Saved versions might not compile well and having multiple versions save automatically would just have many unnecessary past corrections rendered
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    To prevent data from being saved together based on file type or size and to allow for each different file (js, html, css) to be interconnected and change based on the files they are connected with
+
+How can you use the commands git log and git diff to view the history of files?
+
+   You can use git log to view the history of the file commits, and git diff to see what is different between the commits you compare.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    By allowing you to analyze and debug any mistakes that are hindering the code to run properly. More obvious code changes will be significantly pointed out in the git diff criteria of version control. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I will most likely use Git for most of my programming and coding classes, as well as collaborate and share my work for review, or just to share in general.
