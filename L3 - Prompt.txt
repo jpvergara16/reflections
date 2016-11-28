@@ -1,1 +1,3 @@
 When would you want to create a remote repository rather than keeping all your work local?
+  
+  When I have made the necessary commits and changes to my file and want to host it elsewhere, for reasons such as collaboration and file storage. Github is a reosurce that would allow local work to be shared more beneficially for projects.
