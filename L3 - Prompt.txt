@@ -1,3 +1,11 @@
 When would you want to create a remote repository rather than keeping all your work local?
   
   When I have made the necessary commits and changes to my file and want to host it elsewhere, for reasons such as collaboration and file storage. Github is a reosurce that would allow local work to be shared more beneficially for projects.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+  
+  Because sometimes not all commits make the most logical sense to group, and multiple pulls would be redundant to the file, as some commits might be smaller than others. Pull changes manually would solve this by allowing you to choose when to pull requests.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	
+  Branches are different chain of commits made from a master branch, when a couple of tweaks or changes are needed for the commit but not an entire change to the branch. Cloning just copies a whole repository from local to local or from a site like github to local. Fork is strictly Github to Github cloning.
